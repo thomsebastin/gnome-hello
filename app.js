@@ -4,6 +4,7 @@ const Gtk = imports.gi.Gtk;
 const Lang = imports.lang;
 const Webkit = imports.gi.WebKit2;
 
+// test comment
 const HelloGNOME = new Lang.Class ({
     Name: 'Hello GNOME',
         // Create the application itself
